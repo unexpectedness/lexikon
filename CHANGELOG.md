@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file. This change log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
+## [0.2.2] - 2023-02-27
+### Changed
+- Bump `shuriken` to 0.14.52.
+- Add script to generate and publish docs.
+
 ## [0.2.1] - 2019-02-24
 ### Added
 - `lexical-context`: how keys or vals are processed can be tuned with the
