@@ -1,4 +1,4 @@
-(defproject lexikon "0.2.2"
+(defproject net.clojars.unexpectedness/lexikon "0.2.2"
   :description "Reify, manipulate and replay the lexical environment in Clojure"
   :url "https://github.com/unexpectedness/lexikon"
   :license {:name "Eclipse Public License"

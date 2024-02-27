@@ -13,7 +13,7 @@
 ## Usage
 
 ```clojure
-[lexikon "0.2.2"]
+[net.clojars.unexpectedness/lexikon "0.2.2"]
 ```
 
 ```clojure
